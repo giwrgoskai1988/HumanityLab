@@ -1,0 +1,2 @@
+ALL Properties in ALL Classes MUST be PRIVATE!
+Can we have the Gender please???
